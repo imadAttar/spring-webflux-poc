@@ -1,7 +1,7 @@
-package com.api.poc.service;
+package com.imad.poc.service;
 
-import com.api.poc.dao.EmployeeRepository;
-import com.api.poc.model.Employee;
+import com.imad.poc.dao.EmployeeRepository;
+import com.imad.poc.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

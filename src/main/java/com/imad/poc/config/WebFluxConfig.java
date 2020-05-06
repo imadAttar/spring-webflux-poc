@@ -1,4 +1,4 @@
-package com.api.poc.config;
+package com.imad.poc.config;
 
 import org.springframework.context.annotation.Configuration;
 

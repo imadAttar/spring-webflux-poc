@@ -1,4 +1,4 @@
-package com.api.poc.config;
+package com.imad.poc.config;
 
 import com.mongodb.reactivestreams.client.MongoClient;
 import com.mongodb.reactivestreams.client.MongoClients;
@@ -10,7 +10,7 @@ import org.springframework.data.mongodb.core.ReactiveMongoTemplate;
 import org.springframework.data.mongodb.repository.config.EnableReactiveMongoRepositories;
 
 @Configuration
-@EnableReactiveMongoRepositories(basePackages = "com.api.poc.dao")
+@EnableReactiveMongoRepositories(basePackages = "com.imad.poc.dao")
 public class MongoConfig extends AbstractReactiveMongoConfiguration {
     @Value("${port}")
     private String port;

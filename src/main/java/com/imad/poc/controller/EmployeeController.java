@@ -1,7 +1,7 @@
-package com.api.poc.controller;
+package com.imad.poc.controller;
 
-import com.api.poc.model.Employee;
-import com.api.poc.service.EmployeeService;
+import com.imad.poc.model.Employee;
+import com.imad.poc.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

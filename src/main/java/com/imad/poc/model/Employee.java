@@ -1,4 +1,4 @@
-package com.api.poc.model;
+package com.imad.poc.model;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.context.annotation.ScopedProxyMode;

@@ -1,6 +1,6 @@
-package com.api.poc.service;
+package com.imad.poc.service;
 
-import com.api.poc.model.Employee;
+import com.imad.poc.model.Employee;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 

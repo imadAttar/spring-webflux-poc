@@ -1,6 +1,6 @@
-package com.api.poc.dao;
+package com.imad.poc.dao;
 
-import com.api.poc.model.Employee;
+import com.imad.poc.model.Employee;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import reactor.core.publisher.Flux;

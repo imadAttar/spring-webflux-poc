@@ -1,4 +1,4 @@
-package com.api.poc;
+package com.imad.poc;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
